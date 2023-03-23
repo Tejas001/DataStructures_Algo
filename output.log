@@ -1,0 +1,7 @@
+User:tejas.chougule1994@gmail.com 2023-03-12 12:25:56 AM : DEBUG : logging_main Line:23 This debug logging
+User:tejas.chougule1994@gmail.com 2023-03-12 12:25:56 AM : INFO : logging_main Line:24 This info logging
+User:tejas.chougule1994@gmail.com 2023-03-12 12:25:56 AM : WARNING : logging_main Line:25 This warning logging
+User:tejas.chougule1994@gmail.com 2023-03-12 12:25:56 AM : ERROR : logging_main Line:26 This error logging
+User:tejas.chougule1994@gmail.com 2023-03-12 12:25:56 AM : CRITICAL : logging_main Line:27 This critical logging
+User:tejas.chougule1994@gmail.com 2023-03-12 12:25:56 AM : INFO : logging_main Line:28 Here is string and an int 10
+User:tejas.chougule1994@gmail.com 2023-03-12 12:25:56 AM : DEBUG : anotherFunction Line:12 This is debug function message
